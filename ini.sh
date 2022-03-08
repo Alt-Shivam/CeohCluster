@@ -1,6 +1,6 @@
 git clone --single-branch --branch v1.8.6 https://github.com/rook/rook.git
 
-cd CeohCluster/
+cd CephCluster/
 
 
 cd rook/deploy/examples
