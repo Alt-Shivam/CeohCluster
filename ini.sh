@@ -12,8 +12,6 @@ kubectl create -f crds.yaml -f common.yaml -f operator.yaml
 sleep 300
 
 
-
-
 kubectl create -f ../../../cluster.yaml
 
 
