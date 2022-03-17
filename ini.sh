@@ -25,3 +25,5 @@ kubectl create -f storageclass.yaml
 
 echo "please run ...........   kubectl exec -it rook-ceph-tools-55ddbc9f78-2dg9b -n rook-ceph ceph status"
 
+
+
