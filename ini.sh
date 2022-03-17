@@ -9,7 +9,6 @@ rm -R cluster.yaml
 
 kubectl create -f crds.yaml -f common.yaml -f operator.yaml
 
-
 sleep 300
 
 
